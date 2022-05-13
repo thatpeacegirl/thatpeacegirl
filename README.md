@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thatpeacegirl
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning HTML and CSS
+- 👋 Hi, I’m Peace
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on learning projects :)
-- 📫 You can reach me on my twitter
+- 📫 You can reach me on https://twitter.com/__thatpeacegirl
 
 <!---
 thatpeacegirl/thatpeacegirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
