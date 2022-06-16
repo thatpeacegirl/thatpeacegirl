@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peace
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python
+- 🌱 I’m currently learning HTML, CSS and Python
 - 💞️ I’m looking to collaborate on learning projects :)
 - 📫 You can reach me on https://twitter.com/__thatpeacegirl
 
